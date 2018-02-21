@@ -1,0 +1,5 @@
+"Straight up: 35 to 1"
+"Odd or Even: 1 to 1"
+"Red or Black: 1 to 1"
+"1-18 or 19-36: 1 to 1"
+"1st, 2nd, or 3rd dozen: 2 to 1"
